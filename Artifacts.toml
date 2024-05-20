@@ -1,0 +1,9 @@
+[[SimpleITK]]
+arch = "x86_64"
+git-tree-sha1 = "119a424fab4d3008d3ebd94c49f6bc98a29e4167"
+libc = "glibc"
+os = "linux"
+
+    [[SimpleITK.download]]
+    sha256 = "7bc3fe0b0259718fe87a1dff060fca92c03bed90b8a2188c9dd240bc9f0ca199"
+    url = "https://github.com/divital-coder/LibSimpleITK_jll.jl/releases/download/SimpleITK-v2.2.0+0/SimpleITK.v2.2.0.x86_64-linux-gnu.tar.gz"
